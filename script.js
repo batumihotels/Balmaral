@@ -13,7 +13,7 @@ const CONFIG = {
       RU: "Батуми, улица Тенгиза Абуладзе, 2"
     },
 
-    googleMapsUrl: "",
+    googleMapsUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5962.451605569408!2d41.62796195157803!3d41.65086308233355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4067864704553b9d%3A0x460c6ce1579bed2a!2sBalmaral%20Apart%20Hotel!5e0!3m2!1ska!2sge!4v1792919635054!5m2!1ska!2sge",
     whatsapp: "https://wa.me",
     viber: "viber://chat?number=%2B995555123456",
     instagram: "https://www.instagram.com"
